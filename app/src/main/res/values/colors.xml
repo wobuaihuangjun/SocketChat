@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="item_press_on">#ebebeb</color>
+    <color name="item_press_up">#ffffff</color>
+</resources>
